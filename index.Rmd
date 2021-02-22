@@ -29,4 +29,6 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
+![](https://images.dealer.com/autodata/us/color/2021/USD10VOC172F0/726.jpg?impolicy=downsize_bkpt&imdensity=1&w=520)
+
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
